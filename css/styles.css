@@ -1,0 +1,28 @@
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+  background-color: #259e99;
+}
+
+.footer-text {
+  margin: 50px 0 0 0;
+  text-align: center;
+  color: #FFF;
+}
+
+#get-attendees-button{
+  background-color: #ee659e;
+  color: #FFF;
+  align-self: center;
+}
+
+.subheading {
+  text-align: center;
+}
+
+.jumbotron {
+  text-align: center;
+}
